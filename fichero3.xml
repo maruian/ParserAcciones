@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<acciones>
+<accion>
+<nombre>Bankia</nombre>
+<operaciones>
+<compras>
+<compra>
+<cantidad>40</cantidad>
+<precio>2</precio>
+</compra>
+</compras>
+<ventas>
+<venta>
+<cantidad>30</cantidad>
+<precio>5</precio>
+</venta>
+</ventas>
+</operaciones>
+</accion>
+</acciones>
